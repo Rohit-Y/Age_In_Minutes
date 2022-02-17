@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age In Hour,Min,Sec</string>
+    <string name="calculate_age">CALCULATE AGE IN</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">(Hour,Min,Sec)</string>
+    <string name="select_date">Select Date</string>
+    <string name="Selected_Date">Selected Date</string>
+    <string name="Age_In_Minutes">(Age in Hour,Min,Sec)</string>
+</resources>
